@@ -1,0 +1,17 @@
+{
+  "name": "Facto - Swipe Edition",
+  "short_name": "Facto",
+  "description": "A daily facts app. Swipe left to skip, right to learn.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
